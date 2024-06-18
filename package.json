@@ -1,0 +1,21 @@
+{
+  "name": "electron-csv-app",
+  "version": "1.0.0",
+  "description": "An Electron application for processing CSV files",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "Electron",
+    "CSV",
+    "Table",
+    "Editor"
+  ],
+  "author": "DanilSt",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^23.0.0"
+  },
+  "dependencies": {}
+}
